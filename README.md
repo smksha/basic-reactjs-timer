@@ -1,2 +1,2 @@
 # basic-reactjs-timer
-Created with CodeSandbox
+Implement Basic Timer with Start, Pause, Resume, Reset functionalities using custom hook in React JS.
